@@ -1,10 +1,8 @@
-Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
-
+A super mario game done with simple javaScript and with HTML5 canvas
 ## Getting Started
 
-1.  Clone the repo:
+1.  Clone the repo
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
 
 2.  Install dependencies:
 
